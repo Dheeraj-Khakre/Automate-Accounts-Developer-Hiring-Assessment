@@ -50,3 +50,26 @@ All extracted data is stored in a lightweight SQLite database.
 
    ```bash
     https://github.com/Dheeraj-Khakre/Automate-Accounts-Developer-Hiring-Assessment.git
+   
+2 **Build the project using Maven:** 
+   ``` bash
+   mvn clean install
+```
+
+3**Run the application:**
+  ```Bash
+     mvn spring-boot:run
+   ```
+  Alternatively, you can run the application from your IDE (such as IntelliJ IDEA) by running the main class.
+
+
+
+
+
+
+
+
+
+
+
+   
